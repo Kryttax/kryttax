@@ -1,6 +1,6 @@
-## Hello, I'm Kryttax! 👋
+## Hello, I'm Jose! 👋
 
-I'm a Software Programmer that loves building apps, games and websites.<br/>
+I'm a Software Developer that loves building apps, games and websites.<br/>
 
 I'm always looking for new projects that I can tweak and use in my daily life.
 
